@@ -8,6 +8,7 @@ Se mettre à la racine du projet et faire les commandes suivante :
 mkdir build
 cd build
 cmake ..
+make
 cd ../bin
 ./DSDA
 ```
